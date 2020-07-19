@@ -1,0 +1,45 @@
+#img-div{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+h2{
+	display: fluid;
+	background-color: blue;
+	font-size:50px;
+	text-align: center;
+}
+#img-caption{
+	align-content: center;
+	text-align: center;
+}
+
+.footer{
+	
+	text-align: center;
+	height: 40px;
+}
+hr{
+	color: black;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+h3{
+	text-align: center;
+}
+#card{
+	background-color: #BCD952 !important;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+button{
+	align-self: center;
+}
+body{
+	background-color: #C6D984;
+}
+.bg-light{
+	background-color: #BCD952 !important;
+}
